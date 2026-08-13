@@ -38,4 +38,4 @@ Recently working as PM (Data & GTM) at vivo. I enjoy connecting the dots and tur
 ---
 
 #### 📚 Currently Exploring & Learning:
-![MLOps](https://img.shields.io/badge/MLOps-000000?style=for-the-badge) ![Data Engineering](https://img.shields.io/badge/Data_Engineering-007ACC?style=for-the-badge) ![Web Development](https://img.shields.io/badge/Web_Dev-20232A?style=for-the-badge) ![Optimization Research](https://img.shields.io/badge/Optimization_Research-4A154B?style=for-the-badge) ![A/B Testing](https://img.shields.io/badge/A/B_Testing-00A86B?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-000000?style=for-the-badge) ![Data Engineering](https://img.shields.io/badge/Data_Engineering-007ACC?style=for-the-badge) ![Web Development](https://img.shields.io/badge/Web_Dev-20232A?style=for-the-badge) ![Optimization Research](https://img.shields.io/badge/Optimization_Research-4A154B?style=for-the-badge)
