@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 I'm Fery, a Mathematics graduate with strong passion in Data Analytics, Data Science, and Machine Learning.<br>
-Recently working as PM (Data & GTM) at vivo. I enjoy connecting the dots and turning problems into interactive insights<br>
--> data-driven decision making.
+Recently working as PM (Data & GTM) at vivo. I enjoy connecting the dots and turning problems into interactive insights, and goes to data-driven decision making.
 
 - 💼 **LinkedIn**: [linkedin.com/in/fery-kurniawan/](https://www.linkedin.com/in/fery-kurniawan/)
 - 🏆 **Achievement**: 3rd Place Winner — Data Analysis Competition (DAC) 2023 Regional SEA
