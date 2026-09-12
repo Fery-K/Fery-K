@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 I'm Fery, a Mathematics graduate with strong passion in Data Analytics, Data Science, and Machine Learning.<br>
-Recently working as PM (Data & GTM) at vivo. I enjoy connecting the dots and turning problems into interactive insights, and goes to data-driven decision making.
+Recently work as PM (Data & GTM). I enjoy connecting the dots and turning problems into interactive insights, and goes to data-driven decision making.
 
 - 💼 **LinkedIn**: [linkedin.com/in/fery-kurniawan/](https://www.linkedin.com/in/fery-kurniawan/)
-- 🏆 **Achievement**: 3rd Place Winner — Data Analysis Competition (DAC) 2023 Regional SEA
+- 🏆 **Achievement**: 3rd Place Winner Regional SEA — Data Analysis Competition 2023
 - 🎓 **Education**: B.S. in Mathematics, Institut Teknologi Bandung (ITB)
 
 ---
@@ -69,6 +69,6 @@ An intensive, Google-led career readiness program accredited by Kemendikbudriste
 ![Math for ML and DS](https://img.shields.io/badge/Math_for_ML_&_DS-107C41?style=flat-square)
 ![Data Automation and Deployment](https://img.shields.io/badge/Data_Automation_&_Deployment-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![TensorFlow for Dev](https://img.shields.io/badge/TensorFlow_for_Dev-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Deep Learning Arch](https://img.shields.io/badge/Deep_Learning_Arch-D00000?style=flat-square&logo=keras&logoColor=white)
+![Deep Learning Arch](https://img.shields.io/badge/Deep_Learning_Arch-D00000?style=flat-square&logo=pytorch&logoColor=white)
 ![Gen AI](https://img.shields.io/badge/Gen_AI-6C5CE7?style=flat-square)
 ![Product Development](https://img.shields.io/badge/Product_Development-555555?style=flat-square)
